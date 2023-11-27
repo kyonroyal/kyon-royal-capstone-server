@@ -1,0 +1,186 @@
+[
+    {
+      "id": 1,
+      "name": "Leonardo da Vinci",
+      "artStyle": "Renaissance",
+      "zipCode": "33101",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5191.JPG?updatedAt=1701040077088",
+      "portfolio": [
+        {
+          "url": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5206.JPG?updatedAt=1701040081203"
+        },
+        {
+          "url": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5206.JPG?updatedAt=1701040081203"
+        },
+        {
+          "url": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5206.JPG?updatedAt=1701040081203"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vincent van Gogh",
+      "artStyle": "Post-Impressionism",
+      "zipCode": "33133",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5167.jpeg?updatedAt=1701040079983",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FVincent-van-Gogh&psig=AOvVaw0XNhY38m_w3vR5BI4crW6R&ust=1700772564025000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDqw8q92IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smithsonianmag.com%2Farts-culture%2Fthe-woman-who-brought-van-gogh-to-the-world-66805589%2F&psig=AOvVaw0XNhY38m_w3vR5BI4crW6R&ust=1700772564025000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDqw8q92IIDFQAAAAAdAAAAABAI"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theartnewspaper.com%2F2022%2F09%2F23%2Fwhat-were-the-first-12-van-gogh-paintings-ever-sold&psig=AOvVaw0XNhY38m_w3vR5BI4crW6R&ust=1700772564025000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDqw8q92IIDFQAAAAAdAAAAABAQ"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pablo Picasso",
+      "artStyle": "Cubism",
+      "zipCode": "33150",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5171.JPG?updatedAt=1701040080991",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2018%2F02%2F28%2Farts%2Fdesign%2Fpicasso-painting-sothebys-69-million.html&psig=AOvVaw0_EERugv-gEsAL_RgOdotT&ust=1700772478120000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDQnaK92IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPicasso%2527s_Blue_Period&psig=AOvVaw0_EERugv-gEsAL_RgOdotT&ust=1700772478120000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDQnaK92IIDFQAAAAAdAAAAABAJ"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.diamondartpainting.net%2Fproduct%2Fdiamond-painting-abstract-art-by-pablo-picasso-full-image%2F&psig=AOvVaw0_EERugv-gEsAL_RgOdotT&ust=1700772478120000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDQnaK92IIDFQAAAAAdAAAAABAZ"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Claude Monet",
+      "artStyle": "Impressionism",
+      "zipCode": "33140",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5175.JPG?updatedAt=1701040083422",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FMonet&psig=AOvVaw2oCJZS6sAhRXsoh0QbSpW7&ust=1700782150866000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDwwIKG2_IIDFQAAAAAdAAAAABAD"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FClaude_Monet&psig=AOvVaw2oCJZS6sAhRXsoh0QbSpW7&ust=1700782150866000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDwwIKG2_IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FMonet&psig=AOvVaw2oCJZS6sAhRXsoh0QbSpW7&ust=1700782150866000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDwwIKG2_IIDFQAAAAAdAAAAABAJ"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Georgia O'Keeffe",
+      "artStyle": "Modernism",
+      "zipCode": "33127",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5179.JPG?updatedAt=1701040077985",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.georgiaokeeffe.net%2F&psig=AOvVaw2edrIyTCmrj6O0kowd5xWs&ust=1700782239851000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODCwYWG2_IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Fgeorgia-okeeffe&psig=AOvVaw2edrIyTCmrj6O0kowd5xWs&ust=1700782239851000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODCwYWG2_IIDFQAAAAAdAAAAABAI"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgallery.org.uk%2Fartists%2Fgeorgia-okeeffe&psig=AOvVaw2edrIyTCmrj6O0kowd5xWs&ust=1700782239851000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODCwYWG2_IIDFQAAAAAdAAAAABAQ"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Frida Kahlo",
+      "artStyle": "Surrealism",
+      "zipCode": "33124",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5183.JPG?updatedAt=1701040081091",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fridakahlo.org%2F&psig=AOvVaw3EVdY8JgI7aHl9WVGX0-qt&ust=1700772097964000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjXreKQ92IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFrida_Kahlo&psig=AOvVaw3EVdY8JgI7aHl9WVGX0-qt&ust=1700772097964000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjXreKQ92IIDFQAAAAAdAAAAABAI"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Ffrida-kahlo&psig=AOvVaw3EVdY8JgI7aHl9WVGX0-qt&ust=1700772097964000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjXreKQ92IIDFQAAAAAdAAAAABAQ"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Jackson Pollock",
+      "artStyle": "Abstract Expressionism",
+      "zipCode": "33127",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5190.JPG?updatedAt=1701040077319",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJackson_Pollock&psig=AOvVaw2k8Un7Rm3TW67Koo53BVCb&ust=1700772038552000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIDg5dSQ92IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jackson-pollock.org%2F&psig=AOvVaw2k8Un7Rm3TW67Koo53BVCb&ust=1700772038552000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIDg5dSQ92IIDFQAAAAAdAAAAABAI"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Fjackson-pollock&psig=AOvVaw2k8Un7Rm3TW67Koo53BVCb&ust=1700772038552000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIDg5dSQ92IIDFQAAAAAdAAAAABAQ"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Edvard Munch",
+      "artStyle": "Expressionism",
+      "zipCode": "33136",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5191.JPG?updatedAt=1701040077088",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edvardmunch.org%2F&psig=AOvVaw1dR0FwGp5bL33mq1d7H9uE&ust=1700771995944000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCf_cSQ92IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEdvard_Munch&psig=AOvVaw1dR0FwGp5bL33mq1d7H9uE&ust=1700771995944000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCf_cSQ92IIDFQAAAAAdAAAAABAI"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Fedvard-munch&psig=AOvVaw1dR0FwGp5bL33mq1d7H9uE&ust=1700771995944000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCf_cSQ92IIDFQAAAAAdAAAAABAQ"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Rembrandt",
+      "artStyle": "Baroque",
+      "zipCode": "33146",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5195.JPG?updatedAt=1701040078471",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rembrandt.net%2F&psig=AOvVaw2Kt2FkOL-BlX0gOXt8HfFd&ust=1700771936930000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjT4YqQ92IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRembrandt&psig=AOvVaw2Kt2FkOL-BlX0gOXt8HfFd&ust=1700771936930000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjT4YqQ92IIDFQAAAAAdAAAAABAI"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Frembrandt&psig=AOvVaw2Kt2FkOL-BlX0gOXt8HfFd&ust=1700771936930000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjT4YqQ92IIDFQAAAAAdAAAAABAQ"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Henri Matisse",
+      "artStyle": "Fauvism",
+      "zipCode": "33134",
+      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5199.JPG?updatedAt=1701040081299",
+      "portfolio": [
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.henrimatisse.org%2F&psig=AOvVaw2e-zxrl_ZytUQeWWgoXitV&ust=1700771861062000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIiKhaqQ92IIDFQAAAAAdAAAAABAE"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHenri_Matisse&psig=AOvVaw2e-zxrl_ZytUQeWWgoXitV&ust=1700771861062000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIiKhaqQ92IIDFQAAAAAdAAAAABAI"
+        },
+        {
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Fhenri-matisse&psig=AOvVaw2e-zxrl_ZytUQeWWgoXitV&ust=1700771861062000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIiKhaqQ92IIDFQAAAAAdAAAAABAQ"
+        }
+      ]
+    }
+  
+  ]
+
+  
+  
