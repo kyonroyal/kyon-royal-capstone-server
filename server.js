@@ -1,5 +1,5 @@
 const express = require('express');
-const fs = require ('fs');
+const fs = require('fs');
 const app = express();
 const PORT = 1234;
 const cors = require('cors');
@@ -8,6 +8,22 @@ const cors = require('cors');
 app.use(express.json());
 app.use(cors());
 
+app.post('/api/uploadphoto', (req, res) => {
+    console.log('server');
+    const photoUrl = req.body.photoUrl
+    const photos = fs.readFileSync('./data/photos.json');
+    const photoList = JSON.parse(photos);
+    photoList.push(photoUrl);
+    console.log(photoList);
+    fs.writeFileSync('./data/photos.json', JSON.stringify(photoList));
+    res.send("successfully uploaded")
+});
+
+app.get('/api/photos', (req, res) => {
+    const photos = fs.readFileSync('./data/photos.json');
+    const photoList = JSON.parse(photos);
+    res.json(photoList)
+})
 
 app.get('/api/data', (req, res) => {
     fs.readFile('data/users.json', 'utf-8', (err, data) => {

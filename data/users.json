@@ -1,37 +1,37 @@
 [
     {
       "id": 1,
-      "name": "Leonardo da Vinci",
-      "artStyle": "Renaissance",
-      "zipCode": "33101",
-      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5191.JPG?updatedAt=1701040077088",
+      "name": "Kyon Royal",
+      "artStyle": "Film Art",
+      "zipCode": "33143",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5288.jpg?alt=media&token=c67728ea-c881-46bf-aa22-7b8d69f7ce0f",
       "portfolio": [
         {
-          "url": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5206.JPG?updatedAt=1701040081203"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5292.jpg?alt=media&token=58b570db-9c7b-452c-b4a2-f0bb60f0de9b"
         },
         {
-          "url": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5206.JPG?updatedAt=1701040081203"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5291.jpg?alt=media&token=de3b78e7-a942-4946-a4f2-6f43532b6dff"
         },
         {
-          "url": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5206.JPG?updatedAt=1701040081203"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5290.jpg?alt=media&token=af0cb8db-1fe3-45a9-89aa-7636dc392956"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Vincent van Gogh",
-      "artStyle": "Post-Impressionism",
-      "zipCode": "33133",
-      "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5167.jpeg?updatedAt=1701040079983",
+      "name": "Rodney Royal",
+      "artStyle": "Urban-Abstract",
+      "zipCode": "33055",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5287.jpg?alt=media&token=d5a7525a-d581-413e-9fe2-1c09de8f4963",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FVincent-van-Gogh&psig=AOvVaw0XNhY38m_w3vR5BI4crW6R&ust=1700772564025000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDqw8q92IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5294.jpg?alt=media&token=5f0366ae-5c5f-4c47-bf1c-91dc377e7f16"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smithsonianmag.com%2Farts-culture%2Fthe-woman-who-brought-van-gogh-to-the-world-66805589%2F&psig=AOvVaw0XNhY38m_w3vR5BI4crW6R&ust=1700772564025000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDqw8q92IIDFQAAAAAdAAAAABAI"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5289.jpg?alt=media&token=23b658df-9306-4f98-8245-5841ba8b098d"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theartnewspaper.com%2F2022%2F09%2F23%2Fwhat-were-the-first-12-van-gogh-paintings-ever-sold&psig=AOvVaw0XNhY38m_w3vR5BI4crW6R&ust=1700772564025000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDqw8q92IIDFQAAAAAdAAAAABAQ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5293.jpg?alt=media&token=3405ec1b-7be8-4706-a096-b95d0648c4fb"
         }
       ]
     },
@@ -43,13 +43,13 @@
       "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5171.JPG?updatedAt=1701040080991",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2018%2F02%2F28%2Farts%2Fdesign%2Fpicasso-painting-sothebys-69-million.html&psig=AOvVaw0_EERugv-gEsAL_RgOdotT&ust=1700772478120000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDQnaK92IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5172.JPG?alt=media&token=9366225e-72e1-439e-bd50-c085ab999ceb"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPicasso%2527s_Blue_Period&psig=AOvVaw0_EERugv-gEsAL_RgOdotT&ust=1700772478120000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDQnaK92IIDFQAAAAAdAAAAABAJ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5173.JPG?alt=media&token=ca204d1e-64b6-48a9-b142-929983c8746c"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.diamondartpainting.net%2Fproduct%2Fdiamond-painting-abstract-art-by-pablo-picasso-full-image%2F&psig=AOvVaw0_EERugv-gEsAL_RgOdotT&ust=1700772478120000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDQnaK92IIDFQAAAAAdAAAAABAZ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5174.JPG?alt=media&token=1c604000-c01c-484c-88ce-4cd72bcfbc2c"
         }
       ]
     },
@@ -61,13 +61,13 @@
       "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5175.JPG?updatedAt=1701040083422",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FMonet&psig=AOvVaw2oCJZS6sAhRXsoh0QbSpW7&ust=1700782150866000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDwwIKG2_IIDFQAAAAAdAAAAABAD"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5176.JPG?alt=media&token=2258c177-8fb0-48c6-94a7-2d76605f9cac"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FClaude_Monet&psig=AOvVaw2oCJZS6sAhRXsoh0QbSpW7&ust=1700782150866000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDwwIKG2_IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5177.JPG?alt=media&token=5001bf51-b2ae-45f1-9cc1-3ffde51b78cf"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FMonet&psig=AOvVaw2oCJZS6sAhRXsoh0QbSpW7&ust=1700782150866000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDwwIKG2_IIDFQAAAAAdAAAAABAJ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5178.JPG?alt=media&token=526beb49-bf62-458b-b7e0-e73480ae6161"
         }
       ]
     },
@@ -79,13 +79,13 @@
       "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5179.JPG?updatedAt=1701040077985",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.georgiaokeeffe.net%2F&psig=AOvVaw2edrIyTCmrj6O0kowd5xWs&ust=1700782239851000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODCwYWG2_IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5181.JPG?alt=media&token=38c4e1ac-0a8b-4b37-ae12-07af209aa8b3"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Fgeorgia-okeeffe&psig=AOvVaw2edrIyTCmrj6O0kowd5xWs&ust=1700782239851000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODCwYWG2_IIDFQAAAAAdAAAAABAI"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5182.JPG?alt=media&token=0691f209-40ac-4776-9cf3-03ccce4be905"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgallery.org.uk%2Fartists%2Fgeorgia-okeeffe&psig=AOvVaw2edrIyTCmrj6O0kowd5xWs&ust=1700782239851000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODCwYWG2_IIDFQAAAAAdAAAAABAQ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5180.JPG?alt=media&token=9184e6df-70cb-4993-9870-17dbb57d6e3a"
         }
       ]
     },
@@ -97,13 +97,13 @@
       "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5183.JPG?updatedAt=1701040081091",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fridakahlo.org%2F&psig=AOvVaw3EVdY8JgI7aHl9WVGX0-qt&ust=1700772097964000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjXreKQ92IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5186.JPG?alt=media&token=ec2f6703-50ec-4511-b8bb-448ea9c71fa5"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFrida_Kahlo&psig=AOvVaw3EVdY8JgI7aHl9WVGX0-qt&ust=1700772097964000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjXreKQ92IIDFQAAAAAdAAAAABAI"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5185.JPG?alt=media&token=3f0d0497-6ae8-4248-aef1-a6112948f8c1"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Ffrida-kahlo&psig=AOvVaw3EVdY8JgI7aHl9WVGX0-qt&ust=1700772097964000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjXreKQ92IIDFQAAAAAdAAAAABAQ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5184.JPG?alt=media&token=1d5b2395-b0e1-47a1-81c0-0f35540e3152"
         }
       ]
     },
@@ -115,13 +115,13 @@
       "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5190.JPG?updatedAt=1701040077319",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJackson_Pollock&psig=AOvVaw2k8Un7Rm3TW67Koo53BVCb&ust=1700772038552000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIDg5dSQ92IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5187.JPG?alt=media&token=646a1aea-573d-481e-8cd2-fc8887ad9d2b"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jackson-pollock.org%2F&psig=AOvVaw2k8Un7Rm3TW67Koo53BVCb&ust=1700772038552000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIDg5dSQ92IIDFQAAAAAdAAAAABAI"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5188.JPG?alt=media&token=9af5828e-232b-4fe9-bc89-bd0bec66b2c1"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Fjackson-pollock&psig=AOvVaw2k8Un7Rm3TW67Koo53BVCb&ust=1700772038552000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIDg5dSQ92IIDFQAAAAAdAAAAABAQ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5187.JPG?alt=media&token=646a1aea-573d-481e-8cd2-fc8887ad9d2b"
         }
       ]
     },
@@ -133,13 +133,13 @@
       "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5191.JPG?updatedAt=1701040077088",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edvardmunch.org%2F&psig=AOvVaw1dR0FwGp5bL33mq1d7H9uE&ust=1700771995944000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCf_cSQ92IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5192.JPG?alt=media&token=efd31ffc-6b3c-46d9-a236-ba03f0b42683"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEdvard_Munch&psig=AOvVaw1dR0FwGp5bL33mq1d7H9uE&ust=1700771995944000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCf_cSQ92IIDFQAAAAAdAAAAABAI"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5193.JPG?alt=media&token=d0c11eee-ad07-40d0-a5e6-66bcce726be0"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Fedvard-munch&psig=AOvVaw1dR0FwGp5bL33mq1d7H9uE&ust=1700771995944000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCf_cSQ92IIDFQAAAAAdAAAAABAQ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5194.JPG?alt=media&token=228dfe5e-6d6b-44b5-b786-798f5fe3eef9"
         }
       ]
     },
@@ -151,13 +151,13 @@
       "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5195.JPG?updatedAt=1701040078471",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rembrandt.net%2F&psig=AOvVaw2Kt2FkOL-BlX0gOXt8HfFd&ust=1700771936930000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjT4YqQ92IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5198.JPG?alt=media&token=7ccdcbdd-2c4b-4227-b1f6-fd3420bed2b3"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRembrandt&psig=AOvVaw2Kt2FkOL-BlX0gOXt8HfFd&ust=1700771936930000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjT4YqQ92IIDFQAAAAAdAAAAABAI"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5197.JPG?alt=media&token=740c3220-bddc-4c0b-b85e-4647d337fe21"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Frembrandt&psig=AOvVaw2Kt2FkOL-BlX0gOXt8HfFd&ust=1700771936930000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjT4YqQ92IIDFQAAAAAdAAAAABAQ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5196.JPG?alt=media&token=d3c4c5db-f560-440e-89d4-f99607cc827fQ"
         }
       ]
     },
@@ -169,13 +169,13 @@
       "profileImage": "https://ik.imagekit.io/44ztegwvt/artImages/IMG_5199.JPG?updatedAt=1701040081299",
       "portfolio": [
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.henrimatisse.org%2F&psig=AOvVaw2e-zxrl_ZytUQeWWgoXitV&ust=1700771861062000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIiKhaqQ92IIDFQAAAAAdAAAAABAE"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5201.JPG?alt=media&token=ce4cfa5d-6986-48d0-b979-91ead11ab66d"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHenri_Matisse&psig=AOvVaw2e-zxrl_ZytUQeWWgoXitV&ust=1700771861062000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIiKhaqQ92IIDFQAAAAAdAAAAABAI"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5202.JPG?alt=media&token=e58f5dee-4856-4bf2-b73c-472e22cbe5ce"
         },
         {
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biography.com%2Fartist%2Fhenri-matisse&psig=AOvVaw2e-zxrl_ZytUQeWWgoXitV&ust=1700771861062000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIiKhaqQ92IIDFQAAAAAdAAAAABAQ"
+          "url": "https://firebasestorage.googleapis.com/v0/b/kyon-royal-capstone.appspot.com/o/artImages%2FIMG_5200.JPG?alt=media&token=58bce638-9919-4464-96bb-a9182dc4f922"
         }
       ]
     }
